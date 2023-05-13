@@ -34,6 +34,10 @@ public class Main {
                 pessoa2.getEndereço().getComplemento() + ", " +
                 "Número: " + pessoa2.getEndereço().getNumero() + ", " +
                 "CEP: " + pessoa2.getEndereço().getCep() + ".");
+        
+        //Agora que eu não fiz com scanner e depois de 6 horas programando (Só hoje e horas seguidas) este exercício eu completei em 40min? mais ou menos
+        //Aprendi muita coisa com esses dois exercícios e pratiquei bastante. Sempre ficava receoso em usar ArrayList mas é mt útil, embora seja diícil.
+        //Bem, no final de tudo estou feliz de ter aprendido mais com os exercícios.
 
     }
 }
